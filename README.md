@@ -12,4 +12,4 @@ _I'm a Dominos delivery driver and a cybersecurity student._
 ## 🔗 Links
 ![Youtube](https://img.shields.io/badge/Youtube-FCC624?logo=youtube)
 ![Spotify](https://img.shields.io/badge/Spotify-FCC624?logo=spotify)
-_"Your sample quote here!"_
+
