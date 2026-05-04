@@ -2,7 +2,7 @@
 ##  About Me
 _I'm a Dominos delivery driver and a cybersecurity student._
 ## ⚒️ Skills
-![Dominos Delivery Driver](https://img.shields.io/badge/Dominos-FCC624?logo=Dominos)
+![Dominos Delivery Driver](https://img.shields.io/badge/Dominos_Delivery_Driver-FCC624?logo=Dominos)
 
 ## 🎉 Interests
 
