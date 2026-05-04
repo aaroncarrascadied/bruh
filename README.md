@@ -8,7 +8,7 @@ _I'm a Dominos delivery driver and a cybersecurity student._
 ## 🎉 Interests
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming0052CC?logo=Twitch&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming0052CC?logo=youtubegaming-#FF0000logoColor=white)
 
 ## 🔗 Links
 ![Youtube](https://img.shields.io/badge/Youtube-FCC624?logo=youtube)
